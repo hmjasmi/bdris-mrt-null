@@ -1,0 +1,5 @@
+Please contact the authors of 
+
+H. Li, S. Shen and B. Clerckx, "Beyond Diagonal Reconfigurable Intelligent Surfaces: A Multi-Sector Mode Enabling Highly Directional Full-Space Wireless Coverage," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 8, pp. 2446-2460, Aug. 2023, doi: 10.1109/JSAC.2023.3288251. keywords: {Scattering;Impedance;Wireless communication;Integrated circuit modeling;Channel models;Array signal processing;Analytical models;Beyond diagonal reconfigurable intelligent surface (BD-RIS);full-space coverage;highly directional beam;multi-sector mode},
+
+for the code.
